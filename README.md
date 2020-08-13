@@ -1,4 +1,4 @@
-# Calibrations of “Transcending the Levels of Consciousness – The Stairway to Enlightenment” by David R. Hawkins
+# Calibrations of “Transcending&nbsp;the&nbsp;Levels&nbsp;of&nbsp;Consciousness – The&nbsp;Stairway&nbsp;to&nbsp;Enlightenment” by David&nbsp;R.&nbsp;Hawkins
 
 On the Map of Consciousness by David R. Hawkins.
 
