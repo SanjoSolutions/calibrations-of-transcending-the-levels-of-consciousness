@@ -2,7 +2,7 @@
 
 On the Map of Consciousness by David R. Hawkins.
 
-**Book:** Consciousness&nbsp;Level&nbsp;935 on the Map&nbsp;of&nbsp;Consciousness by David&nbsp;R.&nbsp;Hawkins.
+**Book:** Consciousness&nbsp;Level&nbsp;… on the Map&nbsp;of&nbsp;Consciousness by David&nbsp;R.&nbsp;Hawkins.
 
 ## Sections
 
