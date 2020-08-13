@@ -49,7 +49,7 @@ Chapter  | Chapter name | Consciousness Level on the Map of Consciousness by Dav
 ---------|--------------|--------------------------------------------------------------------
 Overview | Transcending Linear Duality | 
 14       | Love | 
-15       | Unconditional Love, Joy, and Ectasy | 
+15       | Unconditional Love, Joy, and Ecstasy | 
 
 ### Section Four: Calibration Levels: 600-1000: The Illumined, Enlightened States
 
