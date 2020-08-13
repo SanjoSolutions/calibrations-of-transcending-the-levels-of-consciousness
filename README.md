@@ -2,11 +2,11 @@
 
 On the Map of Consciousness by David R. Hawkins.
 
-**Book:** Consciousness Level 935 on the Map of Consciousness by David R. Hawkins.
+**Book:** Consciousness&nbsp;Level&nbsp;935 on the Map&nbsp;of&nbsp;Consciousness by David&nbsp;R.&nbsp;Hawkins.
 
 ## Sections
 
-Section    | Section name | Consciousness Level on the Map of Consciousness by David R. Hawkins
+Section    | Section name | Consciousness&nbsp;Level on the Map&nbsp;of&nbsp;Consciousness by David&nbsp;R.&nbsp;Hawkins
 -----------|--------------|--------------------------------------------------------------------
 One        | Calibration Levels Below 200: The Ego | 
 Two        | Calibration Levels: 200-499: Linear Mind | 
@@ -20,7 +20,7 @@ About the Author | About the Author |
 
 ### Section One: Calibration Levels Below 200: The Ego
 
-Chapter  | Chapter name | Consciousness Level on the Map of Consciousness by David R. Hawkins
+Chapter  | Chapter name | Consciousness&nbsp;Level on the Map&nbsp;of&nbsp;Consciousness by David&nbsp;R.&nbsp;Hawkins
 ---------|--------------|--------------------------------------------------------------------
 Overview | The Evolution of Consciousness | 
 1        | Shame: Despair | 
@@ -34,7 +34,7 @@ Overview | The Evolution of Consciousness |
 
 ### Section Two: Calibration Levels: 200-499: Linear Mind
 
-Chapter  | Chapter name | Consciousness Level on the Map of Consciousness by David R. Hawkins
+Chapter  | Chapter name | Consciousness&nbsp;Level on the Map&nbsp;of&nbsp;Consciousness by David&nbsp;R.&nbsp;Hawkins
 ---------|--------------|--------------------------------------------------------------------
 Overview | Brain Function and Physiology of Truth | 
 9        | Courage | 
@@ -45,7 +45,7 @@ Overview | Brain Function and Physiology of Truth |
 
 ### Section Three: Calibration Levels: 500-599: Spiritual Reality
 
-Chapter  | Chapter name | Consciousness Level on the Map of Consciousness by David R. Hawkins
+Chapter  | Chapter name | Consciousness&nbsp;Level on the Map&nbsp;of&nbsp;Consciousness by David&nbsp;R.&nbsp;Hawkins
 ---------|--------------|--------------------------------------------------------------------
 Overview | Transcending Linear Duality | 
 14       | Love | 
@@ -53,7 +53,7 @@ Overview | Transcending Linear Duality |
 
 ### Section Four: Calibration Levels: 600-1000: The Illumined, Enlightened States
 
-Chapter  | Chapter name | Consciousness Level on the Map of Consciousness by David R. Hawkins
+Chapter  | Chapter name | Consciousness&nbsp;Level on the Map&nbsp;of&nbsp;Consciousness by David&nbsp;R.&nbsp;Hawkins
 ---------|--------------|--------------------------------------------------------------------
 Overview | Transcendence | 
 16       | Peace, Bliss, and Illumination | 
@@ -62,7 +62,7 @@ Overview | Transcendence | 
 
 ### Section Five: Transcendence
 
-Chapter  | Chapter name | Consciousness Level on the Map of Consciousness by David R. Hawkins
+Chapter  | Chapter name | Consciousness&nbsp;Level on the Map&nbsp;of&nbsp;Consciousness by David&nbsp;R.&nbsp;Hawkins
 ---------|--------------|--------------------------------------------------------------------
 Overview | Spiritual Transformation | 
 19       | Limitations and Distractions | 
@@ -72,7 +72,7 @@ Overview | Spiritual Transformation |
 
 ### Appendices
 
-Chapter  | Chapter name | Consciousness Level on the Map of Consciousness by David R. Hawkins
+Chapter  | Chapter name | Consciousness&nbsp;Level on the Map&nbsp;of&nbsp;Consciousness by David&nbsp;R.&nbsp;Hawkins
 ---------|--------------|--------------------------------------------------------------------
 A        | Map of the Scale of Consciousness | 
 B        | How to Calibrate the Levels | 
