@@ -2,7 +2,7 @@
 
 On the Map&nbsp;of&nbsp;the&nbsp;Scale&nbsp;of&nbsp;ConsciousnessⓇ by David&nbsp;R.&nbsp;Hawkins.
 
-**Book:** Consciousness&nbsp;Level&nbsp;… on the Map&nbsp;of&nbsp;the&nbsp;Scale&nbsp;of&nbsp;ConsciousnessⓇ by David&nbsp;R.&nbsp;Hawkins.
+**Book:** A Consciousness&nbsp;Level at or above 850 and at or below 900 on the Map&nbsp;of&nbsp;the&nbsp;Scale&nbsp;of&nbsp;ConsciousnessⓇ by David&nbsp;R.&nbsp;Hawkins.
 
 ## Sections
 
